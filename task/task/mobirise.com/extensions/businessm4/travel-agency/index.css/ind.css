@@ -1,0 +1,31 @@
+.logo{
+    margin-left: 120px;
+}
+.about h1{
+    font-size: 40px;
+}
+.our h2{
+font-size: 40px;
+}
+.price{
+    font-size: 40px;
+    color: blue;
+}
+.left-border{
+    height: 100px;
+}
+.testimonial{
+    font-size: 40px;
+    color: blueviolet;
+    justify-content: center;
+    text-align: center;
+}
+.swiper_swiperCarousel{
+    background-color: rgb(218, 237, 243);
+    justify-content: center;
+    text-align: center;
+}
+.card img{
+    justify-content: center;
+    text-align: center;
+}
